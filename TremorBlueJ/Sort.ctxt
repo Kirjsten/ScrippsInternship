@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=tremorList
+comment0.target=Sort(java.util.ArrayList)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Sort\r\n
+comment1.params=
+comment1.target=void\ choice()
+comment1.text=\r\n\ allows\ user\ to\ choose\ what\ sort\ method\ within\ sort\ class\r\n
+comment2.params=
+comment2.target=void\ dateTime()
+comment2.text=\r\n\ Sorts\ date/time,\ most\ likey\ will\ not\ be\ used\ since\ the\ data\ already\ comes\ sorted\ by\ date.\r\n
+comment3.params=
+comment3.target=void\ heartRate()
+comment3.text=\r\n\ sorts\ out\ tremors\ in\ order\ of\ highest\ heartrate\ to\ lowest\ heartrate.\r\n
+comment4.params=
+comment4.target=void\ vectorMag()
+comment4.text=\r\n\ sorts\ out\ tremors\ in\ order\ of\ highest\ vector\ magnitude\ to\ lowest\ vector\ magnitude.\r\n
+comment5.params=
+comment5.target=void\ length()
+comment5.text=\r\n\ sorts\ out\ trmeors\ in\ order\ of\ highest\ length\ to\ lowest\ length\r\n
+comment6.params=
+comment6.target=void\ print()
+comment6.text=\r\n\ prints\ out\ the\ sorted\ array\ lists\r\n
+numComments=7

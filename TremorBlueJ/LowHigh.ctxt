@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=tremorList
+comment0.target=LowHigh(java.util.List)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ LowIntense\r\n
+comment1.params=
+comment1.target=void\ lowest()
+comment1.text=\r\n\ calculates\ the\ lowest\ HR\ and\ vec\ that\ occured\r\n
+comment2.params=
+comment2.target=void\ highest()
+comment3.params=
+comment3.target=void\ print()
+comment3.text=\r\n\ Prints\ the\ highest\ and\ lowest\ of\ HR\ and\ Vec.\ Gives\ date\ and\ time\ of\ occurance\r\n
+numComments=4

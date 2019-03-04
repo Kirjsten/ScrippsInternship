@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=tremors
+comment0.target=TremorEvaluation(java.util.List)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Tremor\r\n
+comment1.params=
+comment1.target=void\ VecHRMean()
+comment1.text=\r\n\ prints\ mean\ of\ HR\r\n
+comment2.params=
+comment2.target=void\ mins()
+comment2.text=\r\n\ calculates\ when\ a\ tremor\ begins\ and\ ends.\ Puts\ the\ data\ that\ falls\ during\ the\ tremor\ is\ put\ in\ a\ seperate\ array.\r\n\ then\ that\ array\ is\ the\ placed\ into\ another\ array\r\n
+comment3.params=
+comment3.target=void\ evaluate()
+comment3.text=\r\n\ evaluates\ duringTrmor\ to\ give\ length,\ mean,\ and\ highest\ point\ during\ tremor\r\n
+comment4.params=
+comment4.target=void\ print()
+comment4.text=\r\n\ prints\ tremors\r\n
+comment5.params=
+comment5.target=void\ meanPrint()
+comment5.text=\r\n\ prints\ means\r\n
+comment6.params=
+comment6.target=java.util.ArrayList\ tremList()
+comment6.text=\r\n\ returns\ tremList\r\n\ @return\ tremList\r\n
+numComments=7

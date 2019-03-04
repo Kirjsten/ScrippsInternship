@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=trems
+comment0.target=TremorCount(java.util.ArrayList)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ TremorCount\r\n
+comment1.params=
+comment1.target=TremorCount()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ TremorCount\r\n
+comment2.params=
+comment2.target=void\ dateSplit()
+comment2.text=\r\n\ method\ to\ split\ date\ into\ ints\r\n
+comment3.params=
+comment3.target=void\ tremPerDay()
+comment3.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n
+comment4.params=
+comment4.target=void\ printTremsPerDay()
+comment4.text=\r\n\ prints\ out\ how\ many\ tremors\ per\ day\ and\ averages\ for\ HR,\ vecmag,\ and\ length;\r\n
+numComments=5
